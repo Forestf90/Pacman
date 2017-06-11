@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1494526553 source:c:\users\admin\desktop\c++\pacman\v0.9.6 soundtrack\gra.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<MMSystem.h>
+	"gra.h"
+	"gra2.cpp"
+
+1494525293 c:\users\admin\desktop\c++\pacman\v0.9.6 soundtrack\gra2.cpp
+	"gra.h"
+	"MMSystem.h"
+
+1494526309 c:\users\admin\desktop\c++\pacman\v0.9.6 soundtrack\gra.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	"MMSystem.h"
+
